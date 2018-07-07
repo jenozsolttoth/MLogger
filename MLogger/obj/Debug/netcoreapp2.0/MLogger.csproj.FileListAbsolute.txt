@@ -1,0 +1,9 @@
+C:\Users\ToZso\source\repos\MLogger\MLogger\bin\Debug\netcoreapp2.0\MLogger.deps.json
+C:\Users\ToZso\source\repos\MLogger\MLogger\bin\Debug\netcoreapp2.0\MLogger.dll
+C:\Users\ToZso\source\repos\MLogger\MLogger\bin\Debug\netcoreapp2.0\MLogger.pdb
+C:\Users\ToZso\source\repos\MLogger\MLogger\obj\Debug\netcoreapp2.0\MLogger.csproj.CoreCompileInputs.cache
+C:\Users\ToZso\source\repos\MLogger\MLogger\obj\Debug\netcoreapp2.0\MLogger.AssemblyInfoInputs.cache
+C:\Users\ToZso\source\repos\MLogger\MLogger\obj\Debug\netcoreapp2.0\MLogger.AssemblyInfo.cs
+C:\Users\ToZso\source\repos\MLogger\MLogger\obj\Debug\netcoreapp2.0\MLogger.dll
+C:\Users\ToZso\source\repos\MLogger\MLogger\obj\Debug\netcoreapp2.0\MLogger.pdb
+C:\Users\ToZso\source\repos\MLogger\MLogger\obj\Debug\netcoreapp2.0\MLogger.csprojResolveAssemblyReference.cache

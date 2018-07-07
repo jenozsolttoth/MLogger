@@ -1,0 +1,13 @@
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\bin\Debug\netcoreapp2.0\LoggerDemo.deps.json
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\bin\Debug\netcoreapp2.0\LoggerDemo.runtimeconfig.json
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\bin\Debug\netcoreapp2.0\LoggerDemo.runtimeconfig.dev.json
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\bin\Debug\netcoreapp2.0\LoggerDemo.dll
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\bin\Debug\netcoreapp2.0\LoggerDemo.pdb
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\bin\Debug\netcoreapp2.0\MLogger.dll
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\bin\Debug\netcoreapp2.0\MLogger.pdb
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.csprojResolveAssemblyReference.cache
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.csproj.CoreCompileInputs.cache
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.AssemblyInfoInputs.cache
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.AssemblyInfo.cs
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.dll
+C:\Users\ToZso\source\repos\MLogger\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.pdb

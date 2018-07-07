@@ -1,0 +1,3 @@
+﻿Critical;System.Exception: sajtosrolád;Sajtmethod;Sajt
+Critical;System.Exception: sajtosrolád123;Sajtmethod123;Sajt123
+Critical;System.Exception: sajtosrolád123123;Sajtmethod123123;Sajt123123
